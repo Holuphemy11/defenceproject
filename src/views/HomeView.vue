@@ -284,7 +284,7 @@ export default defineComponent({
         if (data.queryResult.parameters.greetings == "greetings") {
           let messages = data.queryResult.fulfillmentMessages[0].payload.message;
           let options = data.queryResult.fulfillmentMessages[0].payload.options;
-          let randomnum = Math.floor(Math.random()* messages.length -1)
+          let randomnum = Math.floor(Math.random()* messages.length)
           let selectedMessage = messages[randomnum]
           let finalResponse = {message: selectedMessage, options: options}
           this.ChatBotMessage(finalResponse);

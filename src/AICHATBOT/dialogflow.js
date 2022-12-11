@@ -1,5 +1,5 @@
 
-let token = "ya29.a0AeTM1icN9sW-yPre5qILHGRCp9UqJxTBwGujuDifoxfkWUbsA1ikHWqEqb_XJFsDgg_zvlZB_3oUg0rc5cV7vzv7cETFeybwBt8KcUbqZ1EOSgeWc3eUu29FYwUxBNkvy0gWyFqTa2Y-v6SVQ7Y_0YJXNHdBHcG0MlMJaCgYKAXMSARISFQHWtWOm5GxDpUb2pgsC6DyjHpqd4g0171"
+let token="ya29.a0AeTM1ieEfc5iozznuBsi8-_3HIhQw0_OrQGLEuPiOL93aQmvFLRWI8XZs58XO94enw8OPr-uh9CvPCSc1Sq5fOifiURpfhRpM02dhdL9JHgrjaP9k8vKBBie5Scz2E3sHdaz9a3QkFxZ9XkJ4dW4t0OHCrHaN8un5NhE1gaCgYKAfQSARISFQHWtWOm8gHjjvfuiD-3gAj3I_oBOQ0173"
 async function ChatBot(word) {
   let sessionID = Math.floor(Math.random() * 378974206843640 + 36893787392073);
   //   let auths = gcloud auth print-access-token;
