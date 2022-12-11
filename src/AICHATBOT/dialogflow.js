@@ -1,5 +1,5 @@
 
-let token="ya29.a0AeTM1ieEfc5iozznuBsi8-_3HIhQw0_OrQGLEuPiOL93aQmvFLRWI8XZs58XO94enw8OPr-uh9CvPCSc1Sq5fOifiURpfhRpM02dhdL9JHgrjaP9k8vKBBie5Scz2E3sHdaz9a3QkFxZ9XkJ4dW4t0OHCrHaN8un5NhE1gaCgYKAfQSARISFQHWtWOm8gHjjvfuiD-3gAj3I_oBOQ0173"
+let token="ya29.a0AeTM1idVBfndyofpTObh96pj-JLzr5i8QRvVWhT8PpOJl7rwZQwRBOmy60-4BSCdbAkYb7Y5voCLZnbudVE20u5PyDqdGVTdxDEsDZQN5xEj_M3WN25xJTOx5_hDsE3MWLeupZaFRUiXqHO_qaxWmRVVR6c7JCg041IEGgaCgYKAVASARISFQHWtWOm-xKGXhZfJwRIbesEfH9WoA0173"
 async function ChatBot(word) {
   let sessionID = Math.floor(Math.random() * 378974206843640 + 36893787392073);
   //   let auths = gcloud auth print-access-token;
@@ -14,7 +14,7 @@ async function ChatBot(word) {
         headers: {
           "Content-Type": "application/json",
           Authorization:
-            `Bearer ${token} `,
+            `Bearer ${token}`,
           "x-goog-user-project": "defense-project-chatbot",
         },
         redirect: "follow",
