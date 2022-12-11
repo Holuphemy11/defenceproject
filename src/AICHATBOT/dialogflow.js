@@ -1,5 +1,5 @@
 
-// let token="ya29.a0AeTM1ieN1AVAYnerURbh1M9NTYF_08WIdeCVIicASMLdQGjLb7qHuAdKp56xNIexczSk4Aq9kRljWwq57xXTqIm_oFJBNT1irVJZhvNH_lUBFdk00koVI-FV8C4FFnapFLwxup_wdyiHEJQXBeLIdGzuMKNkA7eP3NC03QaCgYKATwSARISFQHWtWOmVB8FyixmrBwMEUpWygLzEA0173"
+// let token="ya29.a0AeTM1ie_TljGrMCdz2uI6Izb81bYNEcZ81wOxKSHuX5GxRbofC62i9iS2g0bABrkREw5Bqk7_YA1Mdwdz_cRELt-8IAHaHV1stFFFeDOWHajzUV4-mOAm3bdiWwEnWlRg2vU0r2RUlMjXkod7yAvJNOO8v33oYb-6Hi_mQaCgYKAagSARISFQHWtWOmnJDmNsEqrDf8yPSazjAkPw0173"
 async function ChatBot(word) {
   let sessionID = Math.floor(Math.random() * 378974206843640 + 36893787392073);
   //   let auths = gcloud auth print-access-token;
@@ -36,5 +36,5 @@ async function ChatBot(word) {
   }
 }
 
-// console.log(Model('I am hungry'))
+// console.log(Model('Am hungry'))
 export { ChatBot };
