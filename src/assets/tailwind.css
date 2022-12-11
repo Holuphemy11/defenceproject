@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.border-bottoms {
+    border-bottom: 1.5px solid #60109E !important;
+}
+
+/* .bg-trans {
+    background: #61109e6b;
+} */
+.bg-trans {
+    background: #1111126b;
+}
+
+
+.around {
+    border: 2px solid black;
+}
+
