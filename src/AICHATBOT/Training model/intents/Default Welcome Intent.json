@@ -1,0 +1,60 @@
+{
+  "id": "d8eace19-788b-49a6-b007-0d8ac666f68b",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e54ee9d3-74aa-410a-a763-ff063cf02bba",
+          "name": "greetings",
+          "required": false,
+          "dataType": "",
+          "value": "greetings",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [],
+            "message": [
+              "Hello, What would you like to eat today 😊?",
+              "Hello what would you love to order today😎",
+              "Do you know eating well helps build your immune.. Place an order today",
+              "How may i be of assistance today."
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

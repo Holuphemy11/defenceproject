@@ -1,0 +1,54 @@
+{
+  "id": "bc6dac8a-6e27-41e0-8d5b-c78682b22705",
+  "name": "Pepsi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "40103f88-87ec-4d14-9fc5-3277884a9d24",
+          "name": "selectedDrink",
+          "required": false,
+          "dataType": "",
+          "value": "selectedDrink",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [
+              "Yes procced to payment",
+              "No cancel my order"
+            ],
+            "message": "We have included drinks for you. should we proceed to payment"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

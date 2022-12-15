@@ -1,0 +1,54 @@
+{
+  "id": "236d3e74-50eb-4ba6-98c6-d7abeca05658",
+  "name": "Bread and egg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6443eb36-a031-4b4f-b15d-6b95415477c7",
+          "name": "selectedFood",
+          "required": false,
+          "dataType": "",
+          "value": "selectedFood",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [
+              "Yes i need a drink",
+              "No i dont need a drink"
+            ],
+            "message": "You want yam and egg. That Costs ₦2600. Will u like to add a drink"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

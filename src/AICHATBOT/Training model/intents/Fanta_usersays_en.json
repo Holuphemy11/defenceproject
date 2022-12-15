@@ -1,0 +1,79 @@
+[
+  {
+    "id": "042bd887-6cfc-4041-8f04-8b3445dc5724",
+    "data": [
+      {
+        "text": "i need Fanta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "737e0829-cc3f-4e80-9e7d-cbabd3028e5f",
+    "data": [
+      {
+        "text": "just add ",
+        "userDefined": false
+      },
+      {
+        "text": "Fanta",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aad087e2-3758-458f-afa3-f09cd8aa813a",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "Fanta",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "651f0cbf-4682-4e8c-8b4e-423deb9218ea",
+    "data": [
+      {
+        "text": "i want Fanta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce0e9799-b599-45b6-8c8f-22283cc1f6a1",
+    "data": [
+      {
+        "text": "Fanta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

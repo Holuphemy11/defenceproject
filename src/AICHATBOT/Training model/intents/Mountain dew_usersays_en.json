@@ -1,0 +1,71 @@
+[
+  {
+    "id": "7acff735-983d-4253-820b-92235ae7831f",
+    "data": [
+      {
+        "text": "i need Mountain dew",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf50fdf5-6aee-44db-8dcf-6f58dae22f3b",
+    "data": [
+      {
+        "text": "do you have Mountain dew",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f24d3a6-9f9c-4214-8054-67735d041948",
+    "data": [
+      {
+        "text": "just need Mountain ",
+        "userDefined": false
+      },
+      {
+        "text": "dew",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "391c0d7c-eeca-46dc-a4d7-53726d480157",
+    "data": [
+      {
+        "text": "i want Mountain dew",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ac34d0b-cf8a-45ab-9917-4f5599fa999d",
+    "data": [
+      {
+        "text": "Mountain dew",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

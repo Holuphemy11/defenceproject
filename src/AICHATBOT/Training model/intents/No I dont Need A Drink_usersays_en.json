@@ -1,0 +1,54 @@
+[
+  {
+    "id": "224f6352-456b-4b07-9bea-1d599c82aeee",
+    "data": [
+      {
+        "text": "i dont want a drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b059dd0b-bc6e-4d78-9495-3214c4f022a5",
+    "data": [
+      {
+        "text": "no need for drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "982c5743-4e56-4117-b767-cb930ea5629a",
+    "data": [
+      {
+        "text": "no i dont want to add a drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f7a6ec3-4544-4ad1-ada4-3384ae17ff8a",
+    "data": [
+      {
+        "text": "no i dont need a drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

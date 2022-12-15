@@ -1,0 +1,54 @@
+{
+  "id": "0798213b-e552-40c6-84e6-d47780e6c253",
+  "name": "Wine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2ad61357-70b6-41c4-93bc-6ad8ea757405",
+          "name": "selectedDrink",
+          "required": false,
+          "dataType": "",
+          "value": "selectedDrink",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "message": "We have included drinks for you. should we proceed to payment",
+            "options": [
+              "Yes procced to payment",
+              "No cancel my order"
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "cfb0645a-4fb9-41d1-a366-315a4a4da99f",
+  "name": "Add Drinks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b8221e5f-8829-421c-a856-24d4531b4a66",
+          "name": "isDrink",
+          "required": false,
+          "dataType": "",
+          "value": "isDrink",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [
+              "Coca cola",
+              "Pepsi",
+              "Fanta",
+              "Teem",
+              "Smirnoff",
+              "Blue Bullet",
+              "Black bullet",
+              "Fayrouz",
+              "Mountain dew",
+              "Wine"
+            ],
+            "message": "Select a Drink from the available options"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

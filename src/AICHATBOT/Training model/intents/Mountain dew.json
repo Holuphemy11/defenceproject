@@ -1,0 +1,54 @@
+{
+  "id": "e1fbfa61-08e5-4513-87ae-8d2b574d9458",
+  "name": "Mountain dew",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d1186ac1-fb3e-43cd-ba42-4590347dd45f",
+          "name": "selectedDrink",
+          "required": false,
+          "dataType": "",
+          "value": "selectedDrink",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [
+              "Yes procced to payment",
+              "No cancel my order"
+            ],
+            "message": "We have included drinks for you. should we proceed to payment"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "f85f43a1-05b8-4440-b964-5e343dbd8a22",
+  "name": "Yam and fish sauce",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a8ed57f0-92c4-47ba-9221-86d8dd7a9ba3",
+          "name": "selectedFood",
+          "required": false,
+          "dataType": "",
+          "value": "selectedFood",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [
+              "Yes i need a drink",
+              "No i dont need a drink"
+            ],
+            "message": "You want Yam and fish sauce. That Costs ₦3000. Will u like to add a drink"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

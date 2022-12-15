@@ -1,0 +1,55 @@
+{
+  "id": "1eae3f0d-dbf0-4d61-b68f-cccbe31980da",
+  "name": "Cancel order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "073267b2-6c25-4ea0-b366-f585bafe73e8",
+          "name": "isCancel",
+          "required": false,
+          "dataType": "",
+          "value": "isCancel",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [
+              "Order Food",
+              "Track Order",
+              "Cancel Order"
+            ],
+            "message": "Your Current order has being cancled"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

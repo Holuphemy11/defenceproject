@@ -1,0 +1,54 @@
+[
+  {
+    "id": "5323c26f-204d-408a-bd10-e2fb1720d829",
+    "data": [
+      {
+        "text": "check order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce9570ec-d575-4c9d-becb-4705ab0b5bfb",
+    "data": [
+      {
+        "text": "track order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c93be866-0a2c-438e-818e-afd086b27866",
+    "data": [
+      {
+        "text": "tracking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "858620bc-f25d-4559-b377-b52ed6b684ba",
+    "data": [
+      {
+        "text": "track my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

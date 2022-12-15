@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1eb65071-7a60-4014-8103-868b3893086c",
+    "data": [
+      {
+        "text": "include a drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d686016f-5040-4c3c-a617-f40e5485b5c6",
+    "data": [
+      {
+        "text": "i would love to add a drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b9a4117-5a97-480a-958d-afce5cf2ed19",
+    "data": [
+      {
+        "text": "add drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfdbe1e3-338e-4eb5-bb85-6728c11af33f",
+    "data": [
+      {
+        "text": "i need a drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

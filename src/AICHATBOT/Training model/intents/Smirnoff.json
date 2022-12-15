@@ -1,0 +1,54 @@
+{
+  "id": "a4e0834e-118e-4fbc-b8a2-b8a84b192d65",
+  "name": "Smirnoff",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2c796be0-6b9a-4568-8532-98073b2a4dfc",
+          "name": "selectedDrink",
+          "required": false,
+          "dataType": "",
+          "value": "selectedDrink",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [
+              "Yes procced to payment",
+              "No cancel my order"
+            ],
+            "message": "We have included drinks for you. should we proceed to payment"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

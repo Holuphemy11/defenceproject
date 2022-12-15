@@ -1,0 +1,59 @@
+{
+  "id": "6302ed96-4495-4adf-a548-d4eff6a0a737",
+  "name": "Yam porridge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "OrderRiceandbeanswithbottlecoke-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5945476f-d28d-4a9f-a931-fbe953171f27",
+          "name": "selectedFood",
+          "required": false,
+          "dataType": "",
+          "value": "selectedFood",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [
+              "Yes i need a drink",
+              "No i dont need a drink"
+            ],
+            "message": "You want Yam porridge That Costs ₦2000. Will u like to add a drink"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

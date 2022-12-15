@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a0b827e5-9f31-4263-b7a8-959c0fe15de1",
+    "data": [
+      {
+        "text": "procced",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35fd9730-23df-479f-bfaa-b5c76791c561",
+    "data": [
+      {
+        "text": "checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce136836-f323-4219-82ef-4f46ceb4d4d8",
+    "data": [
+      {
+        "text": "Checkout cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94f1c06e-d2c3-4488-80b0-e42e95587920",
+    "data": [
+      {
+        "text": "i want to proceed with the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a50bc0a3-5a58-4f34-9dee-651b59122c39",
+    "data": [
+      {
+        "text": "procced to payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e807eaf5-4067-4941-82da-24821e8b1ae0",
+    "data": [
+      {
+        "text": "Yes procced to payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "0fe4a055-e87e-4f01-b6b4-761664aa9082",
+  "name": "Pounded yam and Egusi Soup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3d80914-fc8c-4399-bdfa-dc81874cab96",
+          "name": "selectedFood",
+          "required": false,
+          "dataType": "",
+          "value": "selectedFood",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "options": [
+              "Yes i need a drink",
+              "No i dont need a drink"
+            ],
+            "message": "You want Pounded Yam. That Costs ₦5000. Will u like to add a drink"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

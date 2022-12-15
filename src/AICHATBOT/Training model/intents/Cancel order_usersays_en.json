@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f3a71c62-d2da-4184-92ac-766d8d83ac12",
+    "data": [
+      {
+        "text": "clear my current order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a1054fb-a5b9-47e3-9958-dcd932decb2b",
+    "data": [
+      {
+        "text": "remove my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5dad09e-5f74-450f-9d4b-7bcae202f3a0",
+    "data": [
+      {
+        "text": "cancel current order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ed60a52-87a3-4f91-83b9-06f3bb2a2d04",
+    "data": [
+      {
+        "text": "cancel my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d2274c7-0f8b-454c-985a-555c14d180c4",
+    "data": [
+      {
+        "text": "Please i want to cancel my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

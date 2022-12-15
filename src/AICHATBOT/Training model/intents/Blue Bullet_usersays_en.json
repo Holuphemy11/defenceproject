@@ -1,0 +1,90 @@
+[
+  {
+    "id": "b2a7a46b-1d75-402f-8d71-fe2a325be1f1",
+    "data": [
+      {
+        "text": "i need ",
+        "userDefined": false
+      },
+      {
+        "text": "Blue",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Bullet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "665de94c-6b72-485b-bf12-703c487443f2",
+    "data": [
+      {
+        "text": "just add ",
+        "userDefined": false
+      },
+      {
+        "text": "Blue",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Bullet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64f1b036-f9c0-4350-b7fa-e9769547e2bd",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "Blue",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Bullet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1c2b355-3285-4fce-a7bf-94fbd519ded5",
+    "data": [
+      {
+        "text": "Blue",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Bullet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

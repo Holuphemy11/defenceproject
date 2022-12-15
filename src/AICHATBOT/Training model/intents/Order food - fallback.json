@@ -1,0 +1,43 @@
+{
+  "id": "64b55055-86a7-4602-9027-4567eeb52ad8",
+  "parentId": "881e5cb8-9158-4671-8841-3f22fa3d4810",
+  "rootParentId": "881e5cb8-9158-4671-8841-3f22fa3d4810",
+  "name": "Order food - fallback",
+  "contexts": [
+    "Orderfood-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Orderfood.Orderfood-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "message": "Am sorry didnt catch that. These are the available foods",
+            "options": [
+              "Rice and Beans with Bottled Coke",
+              "Semo and Egusi Soup",
+              "Jollof Rice with red wine"
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

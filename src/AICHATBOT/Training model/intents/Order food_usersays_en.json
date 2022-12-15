@@ -1,0 +1,93 @@
+[
+  {
+    "id": "db1665b8-a110-43b4-935e-a21218d4d894",
+    "data": [
+      {
+        "text": "can i get a list of all the menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8599e6b7-f04b-4e19-a857-9ff2f26da200",
+    "data": [
+      {
+        "text": "list all available food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75223cee-d1f9-437c-8110-503ebb0e2901",
+    "data": [
+      {
+        "text": "whats in stock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f80b929d-42cd-4797-a22e-32bdee8522d3",
+    "data": [
+      {
+        "text": "am hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "138e4116-4b14-4c1a-94e7-d86130e84984",
+    "data": [
+      {
+        "text": "can you take my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74646188-d920-49ee-b08a-a1f7d0650eab",
+    "data": [
+      {
+        "text": "make order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b83ce10a-0ed7-4194-b451-e65df53483ab",
+    "data": [
+      {
+        "text": "order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

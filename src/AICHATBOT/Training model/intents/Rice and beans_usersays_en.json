@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c37917c0-025d-432f-9494-f137a73bb7ca",
+    "data": [
+      {
+        "text": "Rice and beans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "655fb939-8fef-491a-9533-e0f1b01df5f3",
+    "data": [
+      {
+        "text": "I want Rice and beans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2391fc9d-82db-4fcd-8004-3280c051c21a",
+    "data": [
+      {
+        "text": "is there Rice and beans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11a3a947-4563-44dc-a97f-4e793cdf1364",
+    "data": [
+      {
+        "text": "give me Rice and beans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

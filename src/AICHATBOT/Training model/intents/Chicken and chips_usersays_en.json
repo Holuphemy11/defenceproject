@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2a164143-f8df-4b3a-a268-6a77dbd14450",
+    "data": [
+      {
+        "text": "would love to have Chicken and chips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee42a135-3630-4db3-86bb-11522166a239",
+    "data": [
+      {
+        "text": "i need Chicken and chips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65e35e00-572c-4c3f-8cb4-05f9778289b8",
+    "data": [
+      {
+        "text": "do you have Chicken and chips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ab13d33-c59d-40bf-9424-b88a650453f2",
+    "data": [
+      {
+        "text": "is there Chicken and chips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a6a6f51-9251-44f5-963d-0f2b8992f3da",
+    "data": [
+      {
+        "text": "i want Chicken and chips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84997c53-0b7d-4812-a40a-07a46386c0c9",
+    "data": [
+      {
+        "text": "Chicken and chips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

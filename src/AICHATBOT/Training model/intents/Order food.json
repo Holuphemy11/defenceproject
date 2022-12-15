@@ -1,0 +1,55 @@
+{
+  "id": "881e5cb8-9158-4671-8841-3f22fa3d4810",
+  "name": "Order food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Orderfood-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "message": "What do you want to order, this are the available food",
+            "options": [
+              "Yam porridge",
+              "Yam and stew",
+              "Pounded yam",
+              "Chicken and chips",
+              "Yam and fish sauce",
+              "Yam and egg",
+              "Bread and egg",
+              "Rice and beans",
+              "Moi moi",
+              "Pounded yam",
+              "Chicken pie",
+              "Meat pie",
+              "Full chicken"
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
